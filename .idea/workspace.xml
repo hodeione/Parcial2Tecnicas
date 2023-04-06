@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0994a516-412c-4849-993d-2520d4a1d0a2" name="Changes" comment="Ejercicio1">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Ejercicio123/Ejercicio2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Ejercicio123/Ejercicio2.java" afterDir="false" />
+    <list default="true" id="0994a516-412c-4849-993d-2520d4a1d0a2" name="Changes" comment="Ejercicio2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio123/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680795601373</updated>
-      <workItem from="1680795602768" duration="1791000" />
+      <workItem from="1680795602768" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio1">
       <created>1680796540007</created>
@@ -67,7 +66,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680796633545</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Ejercicio2">
+      <created>1680797404468</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1680797404468</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Ejercicio2">
+      <created>1680797419999</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1680797419999</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -86,6 +99,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio1" />
+    <MESSAGE value="Ejercicio2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio2" />
   </component>
 </project>
