@@ -97,9 +97,5 @@ public class User {
             attack(shotPoint, this);
         }
     }
-<<<<<<< HEAD
-
-=======
->>>>>>> origin/master
 }
 
