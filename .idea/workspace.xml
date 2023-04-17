@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0994a516-412c-4849-993d-2520d4a1d0a2" name="Changes" comment="Commit de cambio tocho">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HundirLaFlota/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HundirLaFlota/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/HundirLaFlota/ShipTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/HundirLaFlota/ShipTest.java" afterDir="false" />
+    <list default="true" id="0994a516-412c-4849-993d-2520d4a1d0a2" name="Changes" comment="Ejercicio2">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Ejercicio123/Ejercicio3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,10 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
-        <option value="AnnotationType" />
       </list>
     </option>
   </component>
@@ -34,35 +29,19 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2O3iKIF3thLlbhE5xRNPG3vVxAv" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;extract.method.default.visibility&quot;: &quot;private&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
-  <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="HundirLaFlota" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="HundirLaFlota" />
-    </key>
-  </component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -71,14 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1680795601373</updated>
-      <workItem from="1680795602768" duration="19017000" />
-      <workItem from="1681037403819" duration="4300000" />
-      <workItem from="1681122825359" duration="4991000" />
-      <workItem from="1681300966605" duration="2743000" />
-      <workItem from="1681305393126" duration="1868000" />
-      <workItem from="1681383833428" duration="6000" />
-      <workItem from="1681734483168" duration="11639000" />
-      <workItem from="1681759475558" duration="4195000" />
+      <workItem from="1680795602768" duration="2148000" />
     </task>
     <task id="LOCAL-00001" summary="Ejercicio1">
       <created>1680796540007</created>
@@ -108,28 +80,7 @@
       <option name="project" value="LOCAL" />
       <updated>1680797419999</updated>
     </task>
-    <task id="LOCAL-00005" summary="Ejercicio3">
-      <created>1680798030552</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1680798030552</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Ejercicio3">
-      <created>1680798038197</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1680798038197</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Commit de cambio tocho">
-      <created>1681759115690</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1681759115690</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,23 +100,6 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ejercicio1" />
     <MESSAGE value="Ejercicio2" />
-    <MESSAGE value="Ejercicio3" />
-    <MESSAGE value="Commit de cambio tocho" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit de cambio tocho" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.Exception" package="java.lang" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="tablero1" />
-      </configuration>
-    </watches-manager>
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicio2" />
   </component>
 </project>

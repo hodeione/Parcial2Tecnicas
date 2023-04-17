@@ -1,5 +1,6 @@
 package HundirLaFlota;
 
+<<<<<<< HEAD
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Nested;
 import org.junit.jupiter.api.Test;
@@ -21,6 +22,12 @@ class ShipTest {
     @InjectMocks
     private Ship underTest;
 
+=======
+import static org.junit.jupiter.api.Assertions.*;
+
+class ShipTest {
+
+>>>>>>> origin/master
     @org.junit.jupiter.api.Test
     void getpInicio() {
     }
@@ -70,6 +77,7 @@ class ShipTest {
     void getShot() {
 
     }
+<<<<<<< HEAD
 
     @Test
     void getPointI() {
@@ -185,4 +193,6 @@ class ShipTest {
         void setup() {
         }
     }
+=======
+>>>>>>> origin/master
 }
